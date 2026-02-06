@@ -1,4 +1,4 @@
-# Stats-Predictive-Analytics-Excel---Predicting-Restaurant-Tips.
+# Predicting-Restaurant-Tips (Stats, Predictive-Analytics, Excel)
 ### Submitted By: Prerna M. Kalambe
 
 <br> <br>
